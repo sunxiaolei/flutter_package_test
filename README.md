@@ -12,3 +12,9 @@ multiple Flutter or Dart projects.
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+dependencies:
+  flutter_package_test:
+    git:
+      url: git://github.com/sunxiaolei/flutter_package_test.git
+      ref: some-branch
